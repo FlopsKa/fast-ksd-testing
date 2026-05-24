@@ -1,0 +1,1 @@
+Code for reproducing the results of our paper: Nyström Kernel Stein Discrepancy Tests.
